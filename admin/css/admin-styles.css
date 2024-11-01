@@ -1,0 +1,7 @@
+.valid-api-key {
+    border-color: green !important;
+}
+
+.invalid-api-key {
+    border-color: red !important;
+}
